@@ -1,0 +1,2 @@
+# PERIODIC-TABLE
+A periodic table is a diagram that shows all the known chemical components. The table is comprised of over a hundred squares. Each square speaks to one component. A square contains a couple of letters that represent the component’s name and numbers that tell about that component’s properties. So for today, let us have a look at the Simple Periodic Table example using HTML and CSS.
